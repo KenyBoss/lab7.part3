@@ -68,7 +68,8 @@ public class AutomatonController
 
 
 
-     * 
+     * 30.We can store just two values.It works because it 
+     * only retains the left and center values before modifying a cell
      * 
      * 
      * 
