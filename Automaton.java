@@ -47,7 +47,7 @@ public class Automaton
     public void update()
     {
         // Build the new state in a separate array.
-        int[] nextState = new int[state.length];
+        int[] nextState = state;
         // Naively update the state of each cell
         // based on the state of its two neighbors.
         for(int i = 0; i < state.length; i++) {

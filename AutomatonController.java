@@ -62,7 +62,12 @@ public class AutomatonController
      * of the specified array of that same data type
      * 27. the automaton remains deterministic, 
      * but the specific patterns depend on the initial state.
-     * 
+     * 29. We use nextState to ensure all cells update 
+     * simultaneously without interference.The automaton
+     * will behave incorrectly.
+
+
+
      * 
      * 
      * 
