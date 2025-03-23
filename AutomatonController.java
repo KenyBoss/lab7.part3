@@ -60,7 +60,8 @@ public class AutomatonController
      * 26. they are 18 to 20 methods.Their purpose is
      * to assign the specified data type value to each element
      * of the specified array of that same data type
-     * 
+     * 27. the automaton remains deterministic, 
+     * but the specific patterns depend on the initial state.
      * 
      * 
      * 
