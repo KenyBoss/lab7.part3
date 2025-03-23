@@ -70,7 +70,8 @@ public class AutomatonController
 
      * 30.We can store just two values.It works because it 
      * only retains the left and center values before modifying a cell
-     * 
+     * 33.There are 256 possible rules for updating a cell’s state because there are 8 possible
+     * input combinations (left, center, right) and each can map to 0 or 1
      * 
      * 
      */
