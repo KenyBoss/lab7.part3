@@ -56,4 +56,16 @@ public class AutomatonController
         auto.reset();
         auto.print();
     }
+     /* 25. Yes
+     * 26. they are 18 to 20 methods.Their purpose is
+     * to assign the specified data type value to each element
+     * of the specified array of that same data type
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     */
+    
 }

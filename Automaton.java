@@ -80,4 +80,5 @@ public class Automaton
         state[numberOfCells / 2] = 1;
             
     }
+   
 }
